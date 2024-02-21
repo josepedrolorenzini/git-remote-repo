@@ -1,0 +1,35 @@
+graphic user interface (GUI);
+allows to interact with the computer with minimal clicks
+mouse driven
+
+Command line interface(CLI)
+pwd -> print working directory
+cd -> change directory
+ls -a -l -t 
+ls -t by sort by time
+touch 
+rm
+ls -line
+pwd
+
+
+///git commands
+
+///config commands
+git config --global user.name 'username'
+git config --global user.mail 'user@mail.com'
+
+git upload -push commands
+
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/josepedrolorenzini/onecodecamp.git
+
+git push -u origin main
+
+git commands
+echo "Hello Command Line" >> hello_cli.txt 
