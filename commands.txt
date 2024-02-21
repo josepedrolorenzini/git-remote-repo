@@ -33,3 +33,7 @@ git push -u origin main
 
 git commands
 echo "Hello Command Line" >> hello_cli.txt 
+
+
+check commits
+git log --oneline
