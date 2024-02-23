@@ -1,5 +1,5 @@
-"use strict";
 //Types in JavaScript
+
 // JavaScript Types....
 // Primitives:
 // Boolean : typeof instance === "boolean"
@@ -8,12 +8,19 @@
 // BigInt : typeof instance === "bigint"
 // Symbol : typeof instance === "symbol"
 // undefined : typeof instance === "undefined"
+
+
 // Structural Types:
 // Object : typeof instance === "object"
 // Function : typeof instance === "function"
+
 // Structural Root Primitive:
 // null : typeof instance === "object"
-function addNumbers(a, b) {
-    return a + b;
+
+
+
+function addNumbers( a:number, b:number ) {
+    return a + b
 }
-console.log(addNumbers(5, 6));
+
+console.log(addNumbers(5, 6))
