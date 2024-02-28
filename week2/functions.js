@@ -101,9 +101,11 @@ catch (error) {
     throw new Error('error');
 }
 ///callback functions
-let getUserData = () => {
+let getUserData = (obj) => {
     setTimeout(() => {
-        return myMathematicalsObject.name;
+        // return obj;
+        console.log(obj);
+        console.log(myMathematicalsObject);
     }, 1000);
 };
-console.log(getUserData());
+getUserData({ name: "callback", exercise: "week 2 functions", test: "Typescript-js" });

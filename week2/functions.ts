@@ -125,10 +125,12 @@ try {
 
 ///callback functions
 
-let getUserData = ():any => {
+let getUserData = (obj:object):any => {
     setTimeout(() => {
-        return myMathematicalsObject.name;
+        // return obj;
+        console.log(obj)
+        console.log(myMathematicalsObject)
     }, 1000);
 }
 
-console.log(getUserData())
+getUserData({name:"callback",exercise:"week 2 functions",test:"Typescript-js"})
