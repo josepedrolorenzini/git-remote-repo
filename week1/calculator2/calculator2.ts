@@ -7,7 +7,7 @@ type operators={
     checkOperation(param:string):number|string
 }
 
-let calculator:operators =   {
+let calculator:operators = {
     operator : readlineSync.question("what operation would you like to do?"),
     num1: readlineSync.question("enter first number .. "),
     num2: readlineSync.question("enter first number .. "),
