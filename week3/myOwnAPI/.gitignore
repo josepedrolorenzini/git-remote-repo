@@ -8,3 +8,5 @@
 
 #files
 .env
+.env.js
+.env
