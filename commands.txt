@@ -37,3 +37,11 @@ echo "Hello Command Line" >> hello_cli.txt
 
 check commits
 git log --oneline
+
+
+
+
+HTTP (Hypertext Transfer Protocol): The foundation of web communication. It defines how data is exchanged between browsers and servers.
+HTTPS (Hypertext Transfer Protocol Secure): A secure version of HTTP. HTTPS uses encryption to scramble data during transfer, making it much more secure.
+
+npm install bcrypt jsonwebtoken

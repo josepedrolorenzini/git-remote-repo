@@ -21,3 +21,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#folders
+/day_7
+/week2
+/week3/day-08
+/week3/jwt
+/week3/mongodb
+/week3/task1
+
+
+
+
