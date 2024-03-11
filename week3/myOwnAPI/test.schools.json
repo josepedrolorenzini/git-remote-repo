@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65ed89f6089cc1b32574d154"
+  },
+  "name": "jp student",
+  "subject": "mongo db",
+  "age": 42,
+  "city": "Valparaiso",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ed89f9089cc1b32574d156"
+  },
+  "name": "Flea",
+  "subject": "updating post with patch",
+  "age": 52,
+  "city": "Los angeles",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ee4f7c3615e3cc358b70d9"
+  },
+  "name": "pedro arancibia",
+  "subject": "Jquery veteran",
+  "age": 49,
+  "city": "Mexico D.F",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ee509a3615e3cc358b70db"
+  },
+  "name": "Clint eastwood",
+  "subject": "C++ veteran",
+  "age": 77,
+  "city": "El Paso , Texas",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ee5200bb17dc3c14ab8c1b"
+  },
+  "name": "Red hot Chili peppers",
+  "subject": "Major influence in Life",
+  "age": 1987,
+  "city": "Santiago de la compostela",
+  "__v": 0
+}]
